@@ -8,7 +8,7 @@ body {
     background-color: #F4F4F4;
 }
 .calculator {
-    background-color: rgb(57, 71, 132);
+    background-color: rgb(114, 35, 130);
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0,0,0,2);
@@ -32,8 +32,8 @@ button {
     margin:5px;
     cursor: pointer;
     border-radius: 5px;
-    border: 1px solid #cccccc;
-    background-color: #c0d4b6;
+    border: 1px solid #ffffff;
+    background-color: #d6e043;
     transition: background-color 0.2s ease;
 }
 button:active {
