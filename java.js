@@ -60,5 +60,5 @@ function calculate() {
 
 function updateDisplay() {
     const displayElement = document.getElementById('display');
-    displayElement.innerText = currentInput || '0'; // Show '0' if current input is empty
+    displayElement.value = currentInput || '0'; // Use the value property for input elements
 }
